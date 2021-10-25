@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.tpp": "cpp",
+    "Jenkinsfile": "groovy",
+    "functional": "cpp"
+  }
+}
