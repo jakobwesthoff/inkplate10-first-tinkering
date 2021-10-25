@@ -3,7 +3,7 @@
 ## About
 
 The source code of this repository is the culmination of playing around with
-[eRadionicas Inkplate 10 ePaper Display]() during a live Twitch session. The
+[eRadionicas Inkplate 10 ePaper Display](https://e-radionica.com/en/inkplate-30.html) during a live Twitch session. The
 recording can be found on my youtube channel, if you are interested in further
 information:
 
